@@ -1,6 +1,8 @@
 # Spotify-Linear-Regression
 Quantitative way for artists to interface with their fans; better understand what features in your music your fans love!
 
+Checkout the paper [here](https://github.com/lukeaal/Spotify-Linear-Regression/blob/main/Report.pdf) and the [slide deck](https://github.com/lukeaal/Spotify-Linear-Regression/blob/main/Slide_Deck.pdf) for an in-depth presentation!
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![R](https://img.shields.io/badge/R-4.0%2B-green) ![Spotipy](https://img.shields.io/badge/Spotipy-2.18%2B-yellow) ![rpart](https://img.shields.io/badge/rpart-4.1%2B-red)
 
 This repository contains code and data for analyzing user engagement on Spotify based on audio attributes using multivariate regression. Our project explores the relationships between various audio features and listener engagement, aiming to predict music niches and enhance music recommendation methods on the world's largest music streaming platform.
