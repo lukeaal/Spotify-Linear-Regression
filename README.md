@@ -25,10 +25,6 @@ This code snippet is written in Python and utilizes the following libraries and 
 
 1. **Tech Stack** 
    - Ensure that you have the required Python libraries (`requests`, `spotipy`, `pandas`, and `csv`) installed in your Python environment.
-### Prerequisites
-
-- R 4.0 or higher
-- rpart 4.1 or higher
   
 2. **Obtain a Spotify client ID** 
     - by registering your application with Spotify on their developer platform.
