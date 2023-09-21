@@ -128,7 +128,6 @@ For the rock band Foo Fighters, the attribute 'liveness' has the most substantia
 - Luke Atkins: Wrote Python code for API calls and initial data cleaning, created presentation slides, and assisted in the final report.
 - Jack Fahrnow: Assisted with the presentation, final report, and IEEE-style formatting of the project.
 - Akshika Rai: Created the multilinear regressions in R for both artists, generated outcomes, created presentation slides, and contributed to report writing.
-- Yichen Gao: [Contribution details needed]
 
 ## Challenges and Future Directions
 
